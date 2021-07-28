@@ -40,7 +40,7 @@ nav img{
 }
 section{
      display:flex;
-     margin-bottom: 100px;
+     margin-bottom: 100px; 
 }
 .top-section {
     width:50%;
@@ -49,6 +49,7 @@ section{
 .top-section img{
     width: 90%;
 }
+
 .top-section p{
     font-size:25px;
 }
@@ -158,8 +159,9 @@ footer{
     margin:40px;
     background-image: url(imagesForFood/footer.png);
     background-repeat: no-repeat;
+   
 }
-footer p,h1{
-      text-align: center;
+.text-footer{
+    text-align:center;
 }
 
